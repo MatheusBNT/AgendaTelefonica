@@ -27,7 +27,7 @@ public class Agenda {
 
     public void agenda01(){
         Telefone telefone01 = new Telefone("Matheus", 11, 945734745);
-        Telefone telefone02 = new Telefone("Sla pourra", 12, 918263986);
+        Telefone telefone02 = new Telefone("Gustavo", 12, 918263986);
         Telefone telefone03 = new Telefone("Zé", 10, 123091008);
         addTelefone(telefone01);
         addTelefone(telefone02);
